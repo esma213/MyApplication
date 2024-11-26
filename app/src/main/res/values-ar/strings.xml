@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_title">تسجيل الدخول الى حسابك</string>
+    <string name="login_description">اكتشف أفضل تجربة الآن</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="forgot_password">نسيت كلمة السر</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="email_empty">حقل البريد الإلكتروني فارغ، الرجاء إدخال عنوان بريد إلكتروني صالح</string>
+    <string name="email_not_valid">البريد الإلكتروني غير صالح</string>
+    <string name="password_empty">حقل كلمة المرور فارغ، الرجاء إدخال كلمة المرور الخاصة بك</string>
+    <string name="password_not_valid">كلمة المرور غير صالحة، يجب أن تكون مكونة من 6 أحرف أو أكثر</string>
+    <string name="entry_success">نجاح الدخول أهلا بك</string>
+    <string name="signup_title">إنشاء حساب</string>
+    <string name="login_descrip">اكتشف وسائل التواصل الاجتماعي الخاصة بك وحاول التسجيل</string>
+    <string name="last_name">اسم العائلة</string>
+    <string name="first_name">الاسم الأول</string>
+    <string name="re_password">أعد كتابة كلمة المرور</string>
+    <string name="creat_account">أنشئ حسابك الأن</string>
+    <string name="already_have_account">هل لديك حساب بالفعل؟</string>
+    <string name="first_name_create">حقل الاسم فارغ، الرجاء إدخال اسمك</string>
+    <string name="last_name_create">حقل اللقب الأخير فارغ، الرجاء إدخال لقبك</string>
+    <string name="re_password_empty">أعد كتابة كلمة المرور الخاصة بك والتي يجب أن تكون هي نفسها التي كتبتها من قبل</string>
+    <string name="password_not_same">كلمة المرور ليست هي نفسها</string>
+</resources>

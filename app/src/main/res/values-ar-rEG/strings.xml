@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_title">تسجيل الدخول الى حسابك</string>
+    <string name="login_description">اكتشف أفضل تجربة الان من مصر</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="forgot_password">نسيت كلمة السر</string>
+    <string name="login">تسجيل الدخول</string>
+</resources>

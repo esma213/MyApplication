@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_title">Login To your Account</string>
+    <string name="login_description">Explore the best experience now</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login">Login</string>
+    <string name="email_empty">email field is empty, please enter valid email address</string>
+    <string name="email_not_valid">email is not valid</string>
+    <string name="password_empty">password field is empty, please enter your password</string>
+    <string name="password_not_valid">password is not valid, should be 6 character or longer</string>
+    <string name="entry_success">success</string>
+    <string name="signup_title">Sign up Account</string>
+    <string name="login_descrip">Discover your social &amp; Try to sign up</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="re_password">Re-type Password</string>
+    <string name="creat_account">Create Account</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="first_name_create">first name field is empty, please enter your first name</string>
+    <string name="last_name_create">last name field is empty, please enter your last name</string>
+    <string name="re_password_empty">rewrite your password which should be the same is wrote it before</string>
+    <string name="password_not_same">the password is not the same</string>
+</resources>
